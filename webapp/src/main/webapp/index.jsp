@@ -4,5 +4,5 @@
 
 <p> This is a simple devops project, which illustrates how we can integrate different devops tools to perform CICD operation</p>
 
-<h3>Deployment with ansible using Jenkins Automcated way</h3>
-<p>Now we are changing the source code to test the automated POLL SCM. This is the step for Automcatic deployemnt of war files using ansible playbook using docker image and Jenkins integration tool.</p>
+<h3>Deployment with ansible using Jenkins Automated way</h3>
+<p>Now we are changing the source code inorder to test the automated build using Poll SCM. This is the step for Automatic deployemnt of war files using ansible playbook and docker image with Jenkins as integration tool.</p>
